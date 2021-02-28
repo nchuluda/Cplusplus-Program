@@ -1,0 +1,7 @@
+0654432 Tock             Oviparous        Crocodile        4 0
+0444444 Andy             Oviparous        Pelican          3 0
+0555555 Bubs             Oviparous        Goose            2 0
+0222223 John             Mammal           Bat              0 1
+0111113 Dave             Mammal           Whale            0 0
+0333333 Nina             Mammal           SeaLion          0 1
+0123456 Awe              Mammal           Bat              0 1
